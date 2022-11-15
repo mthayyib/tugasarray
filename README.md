@@ -1,5 +1,8 @@
 # tugasarray
 Programmer  : Muhammad Thayyib
+
 Nim         : 22343024
 
-/n
+array 1d: rerata_array
+
+array 2d: perkalian_matriks
